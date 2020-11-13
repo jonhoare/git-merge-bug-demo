@@ -1,2 +1,3 @@
 Initial Feature 2 Text
 Feature2 Text 2
+Added a bug here my mistake
