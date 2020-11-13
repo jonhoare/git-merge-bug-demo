@@ -7,4 +7,4 @@ Feature3 text
 Feature1_Text1
 Using Feature6
 Feature1_Text1
-Featrue8
+Feature8
