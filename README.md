@@ -1,6 +1,6 @@
 # Challenge
 
-This is a simulation of multiple team members working on different features/branches at the same time. The team are using `git merge master` or `git pull master` (Which in turn does a merge) to ensure their feature branch is up to date with master before merging back into master.
+This is a simulation of multiple team members working on different features/branches at the same time. The team are using `git merge master` or `git pull master` (Which in turn does a merge) to ensure their feature branch is up to date with master before merging back into master with `git merge feature/branch`.
 
 Using your git tools, I would like you to find where a bug was slipped into this "codebase".
 
